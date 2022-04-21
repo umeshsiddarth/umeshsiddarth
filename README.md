@@ -1,7 +1,7 @@
 ### Hi there 👋. 
 #### This is Umesh an Aerospace Engineer stepping into the world of web3.
 
-## This page is under construction...
+### Learning Solidity
 
 <!--
 **umeshsiddarth/umeshsiddarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
