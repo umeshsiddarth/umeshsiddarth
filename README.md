@@ -1,7 +1,9 @@
-### Hi there 👋. 
-#### This is Umesh an Aerospace Engineer stepping into the world of web3.
+## Hi👋, I am Umesh. 
+I am an Aerospace Engineer turned Blockchain Developer with a passion for creativity and innovation. With over 25 NFT projects under my belt, I have a deep familiarity with the current blockchain landscape and how to best leverage it to bring novel concepts to fruition. Recently, I've been concentrating on developing my creative coding abilities while honing my blockchain development skills.
 
-### Learning Solidity
+You can find me enjoying the great outdoors when I'm not coding. Nothing makes me happier than taking a long bike ride or hitting the trails for a strenuous hike. Nature is a constant source of inspiration and rejuvenation for me, and I make sure to carve out time to appreciate it whenever I can. I am always looking for new opportunities to use my skills and knowledge to create innovative and impactful projects. Whether exploring the potential of blockchain technology or simply creating something beautiful with code, I am driven by a desire to push boundaries and positively impact the world around me.
+
+Thank you for taking the time to view my GitHub profile; I hope we can work together in the near future.
 
 <!--
 **umeshsiddarth/umeshsiddarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
