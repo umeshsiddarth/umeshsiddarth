@@ -9,6 +9,8 @@ You can find me enjoying the great outdoors :sunrise_over_mountains: when I'm no
 
 Thank you for taking the time to view my GitHub profile; I hope we can work together in the near future.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=umeshsiddarth&theme=blue-green&border_radius=10&border=03FF00&fire=FF4D43)](https://git.io/streak-stats)
+
 <!--
 **umeshsiddarth/umeshsiddarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
